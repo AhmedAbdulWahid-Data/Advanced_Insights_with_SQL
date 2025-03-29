@@ -7,7 +7,27 @@ Welcome to my SQL project repository! 🚀 This collection showcases my expertis
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Guides to Master SQL – Click to Download 📥
+
+### - [SQL Data Cleaning 🧹](https://github.com/user-attachments/files/19521750/SQL.data.cleaning.pdf)
+
+### - [SQL Pivoting 🔄](https://github.com/user-attachments/files/19521751/Sql.poviting.pdf)
+
+### - [SQL Performance ⚡](https://github.com/user-attachments/files/19521752/Sql.performance.pdf)
+
+### - [SQL Indexes 📌](https://github.com/user-attachments/files/19521753/Sql.indexes.pdf)
+
+### - [SQL Books 📚](https://github.com/user-attachments/files/19521754/Sql.books.pdf)
+
+### - [Advanced SQL 🎯](https://github.com/user-attachments/files/19521755/Advanced.sql.pdf)
+
+### - [SQL Interview Prep 🎤](https://github.com/user-attachments/files/19521757/SQL.interview.pdf)
+
+### - [SQL Commands 💻](https://github.com/user-attachments/files/19521760/Sql.commands.pdf)
+
+---
+
+## 🔥 Projects
 
 ## [🍏 Apple Retail Sales Analysis](https://github.com/AhmedAbdulWahid-Data/Advanced_Insights_with_SQL/tree/main/Apple_Retail_Sales_Analysis🍏)
 **Objective:** Gain insights into Apple's retail sales data using advanced SQL techniques.
