@@ -1,9 +1,9 @@
 # 📊 Advanced SQL Data Analysis Projects
 
+## Welcome to my SQL project repository! 🚀 This collection showcases my expertise in SQL by analyzing real-world datasets from Apple, Spotify, and Netflix. Each project focuses on key SQL skills, including complex queries, data segmentation, window functions, and correlation analysis.
+
 <img width="691" alt="Screenshot 2025-03-19 at 7 47 05 PM" src="https://github.com/user-attachments/assets/8209299b-47e2-428a-a138-b2e4fe29cf02" />
 
-
-Welcome to my SQL project repository! 🚀 This collection showcases my expertise in SQL by analyzing real-world datasets from Apple, Spotify, and Netflix. Each project focuses on key SQL skills, including complex queries, data segmentation, window functions, and correlation analysis.
 
 ---
 
