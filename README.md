@@ -9,7 +9,7 @@ Welcome to my SQL project repository! 🚀 This collection showcases my expertis
 
 ## 🔥 Featured Projects
 
-### 🍏 Apple Retail Sales Analysis
+### [🍏 Apple Retail Sales Analysis](https://github.com/AhmedAbdulWahid-Data/Advanced_Insights_with_SQL/tree/main/Apple_Retail_Sales_Analysis🍏)
 **Objective:** Gain insights into Apple's retail sales data using advanced SQL techniques.
 
 **📌 Key SQL Concepts:**
@@ -26,7 +26,7 @@ Welcome to my SQL project repository! 🚀 This collection showcases my expertis
 
 ---
 
-### 🎵 Music Trends Analysis (Spotify Dataset)
+### [🎵 Music Trends Analysis (Spotify Dataset)](https://github.com/AhmedAbdulWahid-Data/Advanced_Insights_with_SQL/tree/main/🎶Analyzing_Spotify_Data📊)
 **Objective:** Analyze music streaming trends and artist performance using SQL.
 
 **📌 Key SQL Concepts:**
@@ -41,7 +41,7 @@ Welcome to my SQL project repository! 🚀 This collection showcases my expertis
 
 ---
 
-### 🎬 Netflix Movies & TV Shows Analysis
+### [🎬 Netflix Movies & TV Shows Analysis](https://github.com/AhmedAbdulWahid-Data/Advanced_Insights_with_SQL/tree/main/Netflix_Movies_and_TV_Shows_Analysis🎬)
 **Objective:** Extract meaningful insights from Netflix's movie and TV show database.
 
 **📌 Key SQL Concepts:**
