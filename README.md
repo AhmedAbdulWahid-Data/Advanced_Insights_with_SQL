@@ -15,6 +15,8 @@
 
 ## - [SQL Fraud Detection 🕵](https://github.com/user-attachments/files/19553423/SQL.for.Fraud.Detection.pdf)
 
+## - [SQL Cohort Analysis ⏳](https://github.com/user-attachments/files/19554096/Cohort.Analysis.with.SQL.pdf)
+
 ## - [SQL Performance ⚡](https://github.com/user-attachments/files/19521752/Sql.performance.pdf)
 
 ## - [SQL Indexes 📌](https://github.com/user-attachments/files/19521753/Sql.indexes.pdf)
